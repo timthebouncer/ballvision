@@ -2,7 +2,7 @@ import {Button, Drawer, Menu, Space} from "antd";
 import {MenuUnfoldOutlined} from "@ant-design/icons";
 import MenuFoldOutlined from "@ant-design/icons/lib/icons/MenuFoldOutlined";
 import {useState} from "react";
-import ballLogo from '/ballLogo.png'
+import ballLogo from '/ballLogo-round.png'
 
 const MenuComponent=({...props})=>{
   console.log(props,'props')
