@@ -1,6 +1,6 @@
 import { useState } from "react";
 import ballLogo from "/ballLogo-round.png";
-import "./App.css";
+import "../scss/App.scss";
 import { Input, Pagination } from "antd";
 import InstagramOutlined from "@ant-design/icons/lib/icons/InstagramOutlined";
 import FacebookOutlined from "@ant-design/icons/lib/icons/FacebookOutlined";
